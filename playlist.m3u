@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:180, Sample Artist - Sample Title
+/media/sample1.mp3
+#EXTINF:240, Another Artist - Another Song
+/media/sample2.mp3
+#EXTINF:210, Third Artist - Third Track
+/media/sample3.mp3
